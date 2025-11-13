@@ -50,6 +50,8 @@ Copie e cole esse link no navegador para visualizar o TalentLink funcionando.
 
 https://github.com/LuisSilva06/TalentLink.git
 
+https://talentlink-gamma.vercel.app/
+
 Luis Gustavo RM:561672
 Kauan Benites RM:562115
 Mateus Nunes RM:562008
