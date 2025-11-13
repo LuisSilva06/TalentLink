@@ -1,0 +1,3362 @@
+[
+  {
+    "Id": 1,
+    "nome": "Ana Beatriz Santos",
+    "foto": "https://picsum.photos/seed/1/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "CSS",
+      "Node.js",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Product Manager",
+        "inicio": "2018-02",
+        "fim": "2024-05",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "USP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 2,
+    "nome": "Lucas Ferreira",
+    "foto": "https://picsum.photos/seed/2/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Git",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 20",
+        "cargo": "Fullstack Developer",
+        "inicio": "2021-09",
+        "fim": "2023-05",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 3,
+    "nome": "Mariana Costa",
+    "foto": "https://picsum.photos/seed/3/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Tailwind",
+      "Figma",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 21",
+        "cargo": "Analista de Dados",
+        "inicio": "2018-09",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 4,
+    "nome": "Rafael Almeida",
+    "foto": "https://picsum.photos/seed/4/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Docker",
+      "Kubernetes",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 25",
+        "cargo": "Product Manager",
+        "inicio": "2019-08",
+        "fim": "2025-07",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Universidade X",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 5,
+    "nome": "Julia Rocha",
+    "foto": "https://picsum.photos/seed/5/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Git",
+      "Next.js",
+      "CSS",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Product Manager",
+        "inicio": "2021-05",
+        "fim": "2025-08",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 6,
+    "nome": "Carlos Nogueira",
+    "foto": "https://picsum.photos/seed/6/200/200",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "AWS",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 34",
+        "cargo": "Product Manager",
+        "inicio": "2022-05",
+        "fim": "2023-04",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 7,
+    "nome": "Yasmin Duarte",
+    "foto": "https://picsum.photos/seed/7/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "AWS",
+      "Python",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 20",
+        "cargo": "Fullstack Developer",
+        "inicio": "2020-04",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 8,
+    "nome": "Pedro Carvalho",
+    "foto": "https://picsum.photos/seed/8/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "HTML",
+      "Power BI",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-04",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Instituto Y",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 9,
+    "nome": "Larissa Ramos",
+    "foto": "https://picsum.photos/seed/9/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "CSS",
+      "Git",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Analista de Dados",
+        "inicio": "2018-09",
+        "fim": "2023-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "Universidade X",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 10,
+    "nome": "Daniel Moreira",
+    "foto": "https://picsum.photos/seed/10/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "HTML",
+      "React",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 37",
+        "cargo": "Product Manager",
+        "inicio": "2020-07",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Universidade X",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 11,
+    "nome": "Giovanna Oliveira",
+    "foto": "https://picsum.photos/seed/11/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "React",
+      "CSS",
+      "Git",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 23",
+        "cargo": "UX Designer",
+        "inicio": "2018-07",
+        "fim": "2022-07",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Instituto Y",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 12,
+    "nome": "Felipe Martins",
+    "foto": "https://picsum.photos/seed/12/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "HTML",
+      "React",
+      "Next.js",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 40",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-07",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 13,
+    "nome": "Isabela Mendes",
+    "foto": "https://picsum.photos/seed/13/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Git",
+      "Tailwind",
+      "TypeScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "UX Designer",
+        "inicio": "2018-02",
+        "fim": "2025-09",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 14,
+    "nome": "André Pereira",
+    "foto": "https://picsum.photos/seed/14/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "CSS",
+      "AWS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 33",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-09",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "Instituto Y",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 15,
+    "nome": "Camila Lima",
+    "foto": "https://picsum.photos/seed/15/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Node.js",
+      "TypeScript",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-04",
+        "fim": "2024-01",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 16,
+    "nome": "Thiago Barbosa",
+    "foto": "https://picsum.photos/seed/16/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Kubernetes",
+      "Docker",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 23",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-03",
+        "fim": "2025-02",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 17,
+    "nome": "Laura Monteiro",
+    "foto": "https://picsum.photos/seed/17/200/200",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "HTML",
+      "Python",
+      "TypeScript",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-02",
+        "fim": "2025-05",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "Universidade X",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 18,
+    "nome": "Vinícius Gomes",
+    "foto": "https://picsum.photos/seed/18/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Node.js",
+      "Git",
+      "HTML"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Especialista de Marketing",
+        "inicio": "2020-08",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 19,
+    "nome": "Fernanda Castro",
+    "foto": "https://picsum.photos/seed/19/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "Power BI",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-07",
+        "fim": "2023-07",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 20,
+    "nome": "Gustavo Ribeiro",
+    "foto": "https://picsum.photos/seed/20/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Next.js",
+      "Kubernetes",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Fullstack Developer",
+        "inicio": "2018-05",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 21,
+    "nome": "Letícia Azevedo",
+    "foto": "https://picsum.photos/seed/21/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CSS",
+      "JavaScript",
+      "HTML",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Fullstack Developer",
+        "inicio": "2022-09",
+        "fim": "2022-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 22,
+    "nome": "Eduardo Moura",
+    "foto": "https://picsum.photos/seed/22/200/200",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Tailwind",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 40",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-07",
+        "fim": "2023-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Instituto Y",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 23,
+    "nome": "Sofia Lopes",
+    "foto": "https://picsum.photos/seed/23/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "SQL",
+      "Kubernetes",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 27",
+        "cargo": "Product Manager",
+        "inicio": "2020-04",
+        "fim": "2023-02",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 24,
+    "nome": "Gabriel Silva",
+    "foto": "https://picsum.photos/seed/24/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "Next.js",
+      "CSS",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Product Manager",
+        "inicio": "2020-07",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 25,
+    "nome": "Paula Torres",
+    "foto": "https://picsum.photos/seed/25/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "CSS",
+      "React",
+      "Power BI",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 15",
+        "cargo": "Especialista de Marketing",
+        "inicio": "2019-01",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Instituto Y",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 26,
+    "nome": "Rodrigo Santos",
+    "foto": "https://picsum.photos/seed/26/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Git",
+      "SQL",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Product Manager",
+        "inicio": "2019-09",
+        "fim": "2024-02",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 27,
+    "nome": "Beatriz Souza",
+    "foto": "https://picsum.photos/seed/27/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "CSS",
+      "AWS",
+      "HTML",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 23",
+        "cargo": "Fullstack Developer",
+        "inicio": "2018-09",
+        "fim": "2022-01",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 28,
+    "nome": "Diego Farias",
+    "foto": "https://picsum.photos/seed/28/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Python",
+      "CSS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "UX Designer",
+        "inicio": "2019-03",
+        "fim": "2022-07",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Instituto Y",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 29,
+    "nome": "Carolina Matos",
+    "foto": "https://picsum.photos/seed/29/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Docker",
+      "CSS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "UX Designer",
+        "inicio": "2022-05",
+        "fim": "2025-02",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "Instituto Y",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 30,
+    "nome": "Bruno Vieira",
+    "foto": "https://picsum.photos/seed/30/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "Next.js",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-09",
+        "fim": "2022-09",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Instituto Y",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 31,
+    "nome": "Natalia Correia",
+    "foto": "https://picsum.photos/seed/31/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Figma",
+      "HTML",
+      "AWS",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-05",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 32,
+    "nome": "Leonardo Ramos",
+    "foto": "https://picsum.photos/seed/32/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "SQL",
+      "CSS",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 11",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "2022-09",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 33,
+    "nome": "Patrícia Moreira",
+    "foto": "https://picsum.photos/seed/33/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Python",
+      "Git",
+      "CSS",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 34",
+        "cargo": "Fullstack Developer",
+        "inicio": "2022-01",
+        "fim": "2025-04",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Universidade X",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 34,
+    "nome": "Matheus Duarte",
+    "foto": "https://picsum.photos/seed/34/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Power BI",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "Fullstack Developer",
+        "inicio": "2021-07",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 35,
+    "nome": "Aline Nascimento",
+    "foto": "https://picsum.photos/seed/35/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Tailwind",
+      "Kubernetes",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2018-06",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 36,
+    "nome": "João Pedro Tavares",
+    "foto": "https://picsum.photos/seed/36/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Git",
+      "Next.js",
+      "Tailwind",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-07",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "Universidade X",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 37,
+    "nome": "Helena Campos",
+    "foto": "https://picsum.photos/seed/37/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Next.js",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "UX Designer",
+        "inicio": "2019-01",
+        "fim": "2024-02",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 38,
+    "nome": "Ricardo Lima",
+    "foto": "https://picsum.photos/seed/38/200/200",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "SQL",
+      "HTML",
+      "Kubernetes",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 29",
+        "cargo": "UX Designer",
+        "inicio": "2019-01",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade X",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 39,
+    "nome": "Larissa Oliveira",
+    "foto": "https://picsum.photos/seed/39/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "JavaScript",
+      "AWS",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-09",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 40,
+    "nome": "Bruna Santos",
+    "foto": "https://picsum.photos/seed/40/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "CSS",
+      "TypeScript",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista de Dados",
+        "inicio": "2019-02",
+        "fim": "2022-08",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Universidade X",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 41,
+    "nome": "Marcelo Cardoso",
+    "foto": "https://picsum.photos/seed/41/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Tailwind",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 33",
+        "cargo": "UX Designer",
+        "inicio": "2020-05",
+        "fim": "2023-02",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Universidade X",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 42,
+    "nome": "Lívia Almeida",
+    "foto": "https://picsum.photos/seed/42/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Git",
+      "SQL",
+      "Node.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-06",
+        "fim": "2022-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "FIAP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 43,
+    "nome": "Felipe Correia",
+    "foto": "https://picsum.photos/seed/43/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python",
+      "HTML",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 24",
+        "cargo": "Fullstack Developer",
+        "inicio": "2019-08",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 44,
+    "nome": "Tatiane Duarte",
+    "foto": "https://picsum.photos/seed/44/200/200",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 23",
+        "cargo": "UX Designer",
+        "inicio": "2022-06",
+        "fim": "2023-08",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 45,
+    "nome": "Victor Souza",
+    "foto": "https://picsum.photos/seed/45/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "CSS",
+      "Git",
+      "React",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 40",
+        "cargo": "Analista de Dados",
+        "inicio": "2018-06",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Universidade X",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 46,
+    "nome": "Amanda Rocha",
+    "foto": "https://picsum.photos/seed/46/200/200",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "React",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Especialista de Marketing",
+        "inicio": "2022-06",
+        "fim": "2025-07",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Instituto Y",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 47,
+    "nome": "Diego Carvalho",
+    "foto": "https://picsum.photos/seed/47/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Node.js",
+      "SQL",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 32",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "2024-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 48,
+    "nome": "Clara Barbosa",
+    "foto": "https://picsum.photos/seed/48/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "Git",
+      "Node.js",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 24",
+        "cargo": "Especialista de Marketing",
+        "inicio": "2021-09",
+        "fim": "2022-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 49,
+    "nome": "Renato Silva",
+    "foto": "https://picsum.photos/seed/49/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Kubernetes",
+      "Tailwind",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 21",
+        "cargo": "Especialista de Marketing",
+        "inicio": "2018-02",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "Universidade X",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 50,
+    "nome": "Luana Martins",
+    "foto": "https://picsum.photos/seed/50/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Kubernetes",
+      "AWS",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Analista de Dados",
+        "inicio": "2019-03",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 51,
+    "nome": "Gabriela Pires",
+    "foto": "https://picsum.photos/seed/51/200/200",
+    "cargo": "Especialista de Marketing",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "React",
+      "HTML",
+      "Next.js",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 30",
+        "cargo": "Product Manager",
+        "inicio": "2019-01",
+        "fim": "2022-09",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Instituto Y",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 52,
+    "nome": "Anderson Monteiro",
+    "foto": "https://picsum.photos/seed/52/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Figma",
+      "SQL",
+      "Next.js",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-09",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 53,
+    "nome": "Juliana Nogueira",
+    "foto": "https://picsum.photos/seed/53/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Tailwind",
+      "Kubernetes",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 37",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2025-02",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "Universidade X",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 54,
+    "nome": "Paulo Cesar",
+    "foto": "https://picsum.photos/seed/54/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "HTML",
+      "TypeScript",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 26",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-08",
+        "fim": "2022-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 55,
+    "nome": "Roberta Castro",
+    "foto": "https://picsum.photos/seed/55/200/200",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "TypeScript",
+      "Git",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 28",
+        "cargo": "Fullstack Developer",
+        "inicio": "2022-01",
+        "fim": "",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Instituto Y",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 56,
+    "nome": "Vinícius Costa",
+    "foto": "https://picsum.photos/seed/56/200/200",
+    "cargo": "Product Manager",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Figma",
+      "React",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Product Manager",
+        "inicio": "2022-09",
+        "fim": "2024-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Instituto Y",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 57,
+    "nome": "Marina Lopes",
+    "foto": "https://picsum.photos/seed/57/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Tailwind",
+      "HTML",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 38",
+        "cargo": "UX Designer",
+        "inicio": "2018-06",
+        "fim": "2023-05",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Instituto Y",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 58,
+    "nome": "Otávio Azevedo",
+    "foto": "https://picsum.photos/seed/58/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Python",
+      "CSS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Especialista de Marketing",
+        "inicio": "2022-02",
+        "fim": "2022-09",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Universidade X",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 59,
+    "nome": "Eduarda Fernandes",
+    "foto": "https://picsum.photos/seed/59/200/200",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "HTML",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "Fullstack Developer",
+        "inicio": "2018-08",
+        "fim": "2023-03",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "Id": 60,
+    "nome": "Caio Almeida",
+    "foto": "https://picsum.photos/seed/60/200/200",
+    "cargo": "Fullstack Developer",
+    "resumo": "Profissional focado em resultados, com experiência prática e vontade de aprender.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "AWS",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 34",
+        "cargo": "Especialista de Marketing",
+        "inicio": "2021-06",
+        "fim": "2025-08",
+        "descricao": "Atuação em projetos relevantes e colaboração em times ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Instituto Y",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Demo",
+        "link": "https://",
+        "descricao": "Protótipo demonstrativo."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Exemplo"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* simple vibrant palette adjustments */
+:root{
+  --brand-1: #7c3aed; /* purple */
+  --brand-2: #06b6d4; /* teal */
+  --muted: #6b7280;
+}
+body { background: linear-gradient(120deg, rgba(124,58,237,0.03), rgba(6,182,212,0.03)); }
+[data-theme="dark"] { background: #0b1020; color: #e6eef8; }
